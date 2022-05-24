@@ -38,7 +38,13 @@
       "operatingsystem": "OracleLinux"
     },
     {
+      "operatingsystem": "Scientific"
+    },
+    {
       "operatingsystem": "Fedora"
+    },
+    {
+      "operatingsystem": "Rocky"
     },
     {
       "operatingsystem": "AlmaLinux"
@@ -62,10 +68,10 @@
     {
       "operatingsystem": "Ubuntu",
       "operatingsystemrelease": [
-        "14.04",
         "16.04",
         "18.04",
-        "20.04"
+        "20.04",
+        "22.04"
       ]
     },
     {
